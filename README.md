@@ -2,8 +2,8 @@
 
 ## Links
 
-- repository:
-- deployed page:
+- repository: https://github.com/monairain/Bootstrap-Portfolio
+- deployed page: https://monairain.github.io/Bootstrap-Portfolio/ 
 
 ## Description
 
@@ -21,7 +21,7 @@ Work in progress:
 
 ## Credits
 
-TA's Drew, Jamie, Nazeh for all the
+TA's Drew, Jamie, Nazeh for all the help and guidance.
 
 ## License
 
